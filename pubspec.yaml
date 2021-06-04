@@ -1,5 +1,8 @@
 name: hnapp
-description: A new Flutter project.
+description: A flutter project to fetch news and the 
+comments from the hacker news api. Hacker news api is 
+a most diffcuilt api to work with. Here I have implemented
+that api in Flutter app with Bloc arch.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.

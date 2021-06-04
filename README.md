@@ -1,16 +1,15 @@
 # hnapp
 
-A new Flutter project.
-
+A flutter project to fetch news and the 
+comments from the hacker news api. Hacker news api is 
+a most diffcuilt api to work with. Here I have implemented
+that api in Flutter app with Bloc arch.
 ## Getting Started
+The hacker news api doc can be found at https://github.com/HackerNews/API
 
-This project is a starting point for a Flutter application.
+## libraries used are
+1. http
+2. bloc
+3. flutter_bloc
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## planning
